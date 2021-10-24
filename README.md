@@ -3,8 +3,11 @@
 
 ### Установка
 <code>tondev sol compile Wallet.sol</code>
+<br>
 <code>tondev sol compile SallerWallet.sol</code>
+<br>
 <code>tondev c d Wallet -v 12345678901234</code>
+<br>
 <code>tondev c d SallerWallet</code>
 
 ### Функционал
